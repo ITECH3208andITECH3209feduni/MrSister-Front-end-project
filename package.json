@@ -10,17 +10,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ajeetchaulagain/my-sister-admin.git"
-  },
+    "type": "git"  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajeetchaulagain/my-sister-admin/issues"
-  },
-  "homepage": "https://github.com/ajeetchaulagain/my-sister-admin#readme",
-  "dependencies": {
+
+    },  "dependencies": {
     "@ant-design/icons": "^4.2.2",
     "@hapi/joi": "^17.1.1",
     "antd": "^4.6.1",

@@ -17,7 +17,11 @@ npm install
 ```
 
 this will install the NPM (node package into computer)
-- then we can run the project by ```npm run dev```, this is a server and will run on the ***localhost:3000***
+- then we can run the project by
+```
+npm run dev
+```
+this is a server and will run on the ***localhost:3000***
 optional:
 if you have any error we can fix by:
 ```

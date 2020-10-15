@@ -1,0 +1,41 @@
+{
+  "name": "my-sister-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeetchaulagain/my-sister-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajeetchaulagain/my-sister-admin/issues"
+  },
+  "homepage": "https://github.com/ajeetchaulagain/my-sister-admin#readme",
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "@hapi/joi": "^17.1.1",
+    "antd": "^4.6.1",
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "joi": "^17.2.1",
+    "next": "^9.5.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "react-toastify": "^6.0.8"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^1.7.6"
+  }
+}
